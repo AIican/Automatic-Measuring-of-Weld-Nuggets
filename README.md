@@ -1,1 +1,1 @@
-# Masterarbeit-Automatic-Measuring-of-Weld-Nuggets
+# Masterarbeit:Automatic Measuring of Weld Nuggets
