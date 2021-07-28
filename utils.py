@@ -59,8 +59,7 @@ def calc_diameter(preds, k):
   A = preds.sum()*(k**2)  #preds_prob.sum()i da dene
   return 2*math.sqrt(A/np.pi)
 
-def exportCSV(result_dict,folder,filename):#json lamak daha iyi gibi
-  #dirrek csv dict de fena olmaz
+def exportCSV(result_dict,folder,filename):#json maybe?
   df = pd.DataFrame(data=result_dict)
   path = os.path.join(folder, filename + '_' + str(date.today()) + ".csv")
   df.to_csv(path, index=False)
