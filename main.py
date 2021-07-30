@@ -1,4 +1,4 @@
-import PySimpleGUI as sg
+eimport PySimpleGUI as sg
 import os.path
 import buttonEvents
 
@@ -45,6 +45,6 @@ while True:
         database_path = buttonEvents.sendToDB(values["-IMGFOLDER-"],values["-CSVFILE-"])
         window["-TOUT-"].update("Database Path: " + database_path)
     elif event == 'Retraining':
-        window["-TOUT-"].update("Retraining ist noch nicht implementiert!")
+        window["-TOUT-"].update("Execute training.pynb")
 
 window.close()
