@@ -5,3 +5,4 @@ Resistance spot welding is a widely applied manufacturing process used typically
   <img width="396" height="241" src="https://user-images.githubusercontent.com/74857138/127747452-dacf98ea-b8cc-4236-b1b5-1ce8c06e18cb.png">
 </p>
 
+The images in the image folder will be processed and fed into the neural network. The predictions of the network are written into a csv file, which can be opened by the VGG Image Annotator [GitHub](http://github.com)
