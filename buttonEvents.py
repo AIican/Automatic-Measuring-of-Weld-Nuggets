@@ -12,7 +12,7 @@ import PySimpleGUI as sg
 IMG_HEIGHT = 128
 IMG_WIDTH = 128
 model = models.load_model('./models/unet.h5',compile=False)
-via_path = "./via.html"
+via_path = "./via.html" #download software from https://www.robots.ox.ac.uk/~vgg/software/via/
 
 
 def predict(folder):
