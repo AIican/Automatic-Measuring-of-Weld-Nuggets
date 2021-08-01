@@ -10,5 +10,5 @@ The images in the image folder will be processed and fed into the neural network
 ## Online User Interface
 In order to visualize the prediction of the neural network an online user interface is designed. Seperate from the rest of the code, the jupyter notebook "online_UI.ipynb" can be executed and with a temporary link the software can be tested online. Example images are in the images folder.
 <p align="center">
-  <img width="384" height="248" src="https://user-images.githubusercontent.com/74857138/127778694-0f9b9ab2-2970-4158-848a-17fd661e02c9.png">
-</p>![screenshot (2)](https://user-images.githubusercontent.com/74857138/127778694-0f9b9ab2-2970-4158-848a-17fd661e02c9.png)
+  <img width="768" height="496" src="https://user-images.githubusercontent.com/74857138/127778694-0f9b9ab2-2970-4158-848a-17fd661e02c9.png">
+</p>
