@@ -8,4 +8,7 @@ Resistance spot welding is a widely applied manufacturing process used typically
 The images in the image folder will be processed and fed into the neural network. The predictions of the network are written into a csv file, which can be imported into the [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/) (via.html). Through the VGG Image Annotator user can verify or adjust the predictions of the neural network and the new coordinates of the nugget are exported. The new annotations are then fed into the "Annotations" input field and the neural network can be retrained with the new data. This human-in-the-loop system aims to optimize the AI system in order to prduce more reliable results.
 
 ## Online User Interface
-balabsabvh
+In order to visualize the prediction of the neural network an online user interface is designed. Seperate from the rest of the code, the jupyter notebook "online_UI.ipynb" can be executed and with a temporary link the software can be tested online. Example images are in the images folder.
+<p align="center">
+  <img width="384" height="248" src="https://user-images.githubusercontent.com/74857138/127778694-0f9b9ab2-2970-4158-848a-17fd661e02c9.png">
+</p>![screenshot (2)](https://user-images.githubusercontent.com/74857138/127778694-0f9b9ab2-2970-4158-848a-17fd661e02c9.png)
