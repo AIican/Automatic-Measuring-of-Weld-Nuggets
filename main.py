@@ -1,4 +1,4 @@
-eimport PySimpleGUI as sg
+import PySimpleGUI as sg
 import os.path
 import buttonEvents
 
