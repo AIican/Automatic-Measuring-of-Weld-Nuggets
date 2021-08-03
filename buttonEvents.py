@@ -58,7 +58,7 @@ def my_popup(window):
         [sg.Text("Do you want to open the VGG Image Annotator to check the predictions?")],
         [sg.Button("YES"), sg.Button("NO")]
     ]
-    win = sg.Window("Ueberpruefung", layout, modal=True,
+    win = sg.Window("Verification", layout, modal=True,
         grab_anywhere=True, enable_close_attempted_event=True,element_justification='center')
     event, value = win.read()
     if event == "YES":
