@@ -1,4 +1,4 @@
-# Masterarbeit: Automatic Measuring of Weld Nuggets
+# Automatic Measuring of Weld Nuggets
 <p align="left">
   <img width="240" height="134" src="https://user-images.githubusercontent.com/74857138/127784568-8d7de918-0336-442b-9917-42915c18f5e7.png">
   <img width="294" height="80" src="https://user-images.githubusercontent.com/74857138/127784575-92a47599-181b-48dd-95c0-86f3daa21e4a.png">
